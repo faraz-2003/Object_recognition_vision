@@ -1,0 +1,447 @@
+2024-03-09 00:15:20,468 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:15:20,468 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:15:20,468 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:15:20,468 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:15:20,468 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:15:20,468 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:15:20,468 - INFO - gemini_vision - Setting up model
+2024-03-09 00:15:20,468 - INFO - gemini_vision - Model setup success
+2024-03-09 00:15:20,468 - ERROR - script - An error occurred: Please enter all values the settings.
+API Key is required
+2024-03-09 00:15:20,468 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 253, in <module>
+    streamlit_app()
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 176, in streamlit_app
+    raise ValueError("Please enter all values the settings.\nAPI Key is required")
+ValueError: Please enter all values the settings.
+API Key is required
+
+2024-03-09 00:15:35,024 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:15:35,031 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:15:35,033 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:15:35,033 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:15:35,034 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:15:35,035 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:15:35,035 - INFO - gemini_vision - Setting up model
+2024-03-09 00:15:35,037 - INFO - gemini_vision - Model setup success
+2024-03-09 00:15:37,208 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:15:37,224 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:15:37,231 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:15:37,237 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:15:37,246 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:15:37,251 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:15:37,260 - INFO - gemini_vision - Setting up model
+2024-03-09 00:15:37,278 - INFO - gemini_vision - Model setup success
+2024-03-09 00:15:41,967 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:15:41,969 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:15:41,971 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:15:41,972 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:15:41,974 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:15:41,982 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:15:41,984 - INFO - gemini_vision - Setting up model
+2024-03-09 00:15:41,985 - INFO - gemini_vision - Model setup success
+2024-03-09 00:15:42,849 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:15:42,849 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:15:42,849 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:15:42,849 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:15:42,849 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:15:42,849 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:15:42,849 - INFO - gemini_vision - Setting up model
+2024-03-09 00:15:42,858 - INFO - gemini_vision - Model setup success
+2024-03-09 00:15:43,890 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:15:43,975 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:15:44,091 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:15:44,134 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:15:44,159 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:15:44,182 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:15:44,184 - INFO - gemini_vision - Setting up model
+2024-03-09 00:15:44,185 - INFO - gemini_vision - Model setup success
+2024-03-09 00:15:46,369 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:15:46,372 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:15:46,375 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:15:46,376 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:15:46,380 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:15:46,382 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:15:46,385 - INFO - gemini_vision - Setting up model
+2024-03-09 00:15:46,390 - INFO - gemini_vision - Model setup success
+2024-03-09 00:15:46,435 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:15:46,444 - INFO - image_cv2 - Capturing image from webcam
+2024-03-09 00:17:02,658 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:17:02,667 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:17:02,668 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:17:02,670 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:17:02,672 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:17:02,674 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:17:02,699 - INFO - gemini_vision - Setting up model
+2024-03-09 00:17:02,701 - INFO - gemini_vision - Model setup success
+2024-03-09 00:17:02,858 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:17:02,861 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:17:02,863 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:17:02,865 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:17:02,868 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:17:02,873 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:17:02,874 - INFO - gemini_vision - Setting up model
+2024-03-09 00:17:02,888 - INFO - gemini_vision - Model setup success
+2024-03-09 00:17:09,068 - INFO - image_cv2 - Capturing image from webcam
+2024-03-09 00:17:09,070 - INFO - image_cv2 - Converting image PIL.Image
+2024-03-09 00:17:09,076 - INFO - image_cv2 - Converting image success
+2024-03-09 00:17:09,079 - INFO - image_cv2 - Saving image to: web_image.png
+2024-03-09 00:17:09,099 - INFO - image_cv2 - Saved image to: web_image.png
+2024-03-09 00:20:01,045 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:20:01,047 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:20:01,047 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:20:01,048 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:20:01,048 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:20:01,048 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:20:01,051 - INFO - gemini_vision - Setting up model
+2024-03-09 00:20:01,051 - INFO - gemini_vision - Model setup success
+2024-03-09 00:20:01,056 - ERROR - script - An error occurred: Please enter all values the settings.
+API Key is required
+2024-03-09 00:20:01,059 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 253, in <module>
+    streamlit_app()
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 176, in streamlit_app
+    raise ValueError("Please enter all values the settings.\nAPI Key is required")
+ValueError: Please enter all values the settings.
+API Key is required
+
+2024-03-09 00:20:23,595 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:20:23,595 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:20:23,595 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:20:23,595 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:20:23,595 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:20:23,595 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:20:23,595 - INFO - gemini_vision - Setting up model
+2024-03-09 00:20:23,595 - INFO - gemini_vision - Model setup success
+2024-03-09 00:20:25,613 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:20:25,616 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:20:25,617 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:20:25,619 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:20:25,621 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:20:25,623 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:20:25,626 - INFO - gemini_vision - Setting up model
+2024-03-09 00:20:25,637 - INFO - gemini_vision - Model setup success
+2024-03-09 00:20:31,128 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:20:31,128 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:20:31,128 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:20:31,128 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:20:31,128 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:20:31,138 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:20:31,139 - INFO - gemini_vision - Setting up model
+2024-03-09 00:20:31,167 - INFO - gemini_vision - Model setup success
+2024-03-09 00:20:32,120 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:20:32,121 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:20:32,122 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:20:32,123 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:20:32,124 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:20:32,128 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:20:32,129 - INFO - gemini_vision - Setting up model
+2024-03-09 00:20:32,130 - INFO - gemini_vision - Model setup success
+2024-03-09 00:20:33,137 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:20:33,139 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:20:33,140 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:20:33,150 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:20:33,156 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:20:33,157 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:20:33,169 - INFO - gemini_vision - Setting up model
+2024-03-09 00:20:33,172 - INFO - gemini_vision - Model setup success
+2024-03-09 00:20:36,599 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:20:36,600 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:20:36,602 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:20:36,604 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:20:36,611 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:20:36,618 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:20:36,682 - INFO - gemini_vision - Setting up model
+2024-03-09 00:20:36,685 - INFO - gemini_vision - Model setup success
+2024-03-09 00:20:36,732 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:20:36,736 - INFO - image_cv2 - Capturing image from webcam
+2024-03-09 00:20:38,261 - INFO - image_cv2 - Saving image to: web_image.png
+2024-03-09 00:20:38,272 - INFO - image_cv2 - Saved image to: web_image.png
+2024-03-09 00:20:38,278 - INFO - script - Trying to open image: web_image.png
+2024-03-09 00:20:49,106 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:20:49,113 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:20:49,116 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:20:49,120 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:20:49,125 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:20:49,146 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:20:49,148 - INFO - gemini_vision - Setting up model
+2024-03-09 00:20:49,152 - INFO - gemini_vision - Model setup success
+2024-03-09 00:20:49,192 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:20:49,202 - INFO - image_cv2 - Capturing image from webcam
+2024-03-09 00:20:50,734 - INFO - image_cv2 - Saving image to: web_image.png
+2024-03-09 00:20:50,745 - INFO - image_cv2 - Saved image to: web_image.png
+2024-03-09 00:20:50,749 - INFO - script - Trying to open image: web_image.png
+2024-03-09 00:22:25,710 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:22:25,711 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:22:25,712 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:22:25,712 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:22:25,715 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:22:25,716 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:22:25,716 - INFO - gemini_vision - Setting up model
+2024-03-09 00:22:25,717 - INFO - gemini_vision - Model setup success
+2024-03-09 00:22:25,719 - ERROR - script - An error occurred: Please enter all values the settings.
+API Key is required
+2024-03-09 00:22:25,719 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 253, in <module>
+    streamlit_app()
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 176, in streamlit_app
+    raise ValueError("Please enter all values the settings.\nAPI Key is required")
+ValueError: Please enter all values the settings.
+API Key is required
+
+2024-03-09 00:22:29,749 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:22:29,749 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:22:29,749 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:22:29,749 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:22:29,749 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:22:29,749 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:22:29,749 - INFO - gemini_vision - Setting up model
+2024-03-09 00:22:29,749 - INFO - gemini_vision - Model setup success
+2024-03-09 00:22:31,646 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:22:31,646 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:22:31,646 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:22:31,668 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:22:31,670 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:22:31,672 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:22:31,682 - INFO - gemini_vision - Setting up model
+2024-03-09 00:22:31,684 - INFO - gemini_vision - Model setup success
+2024-03-09 00:22:34,258 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:22:34,263 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:22:34,263 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:22:34,263 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:22:34,273 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:22:34,275 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:22:34,282 - INFO - gemini_vision - Setting up model
+2024-03-09 00:22:34,290 - INFO - gemini_vision - Model setup success
+2024-03-09 00:22:35,237 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:22:35,238 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:22:35,239 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:22:35,240 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:22:35,241 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:22:35,241 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:22:35,243 - INFO - gemini_vision - Setting up model
+2024-03-09 00:22:35,245 - INFO - gemini_vision - Model setup success
+2024-03-09 00:22:36,280 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:22:36,284 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:22:36,285 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:22:36,287 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:22:36,288 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:22:36,291 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:22:36,294 - INFO - gemini_vision - Setting up model
+2024-03-09 00:22:36,310 - INFO - gemini_vision - Model setup success
+2024-03-09 00:22:38,051 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:22:38,053 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:22:38,056 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:22:38,066 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:22:38,070 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:22:38,075 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:22:38,077 - INFO - gemini_vision - Setting up model
+2024-03-09 00:22:38,083 - INFO - gemini_vision - Model setup success
+2024-03-09 00:22:38,126 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:22:38,136 - INFO - image_cv2 - Capturing image from webcam
+2024-03-09 00:22:39,653 - INFO - image_cv2 - Saved image to: web_image.png
+2024-03-09 00:22:39,657 - INFO - script - Trying to open image: web_image.png
+2024-03-09 00:22:44,683 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:22:44,688 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:22:44,697 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:22:44,722 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:22:44,725 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:22:44,730 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:22:44,733 - INFO - gemini_vision - Setting up model
+2024-03-09 00:22:44,737 - INFO - gemini_vision - Model setup success
+2024-03-09 00:22:44,791 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:22:44,875 - INFO - image_cv2 - Capturing image from webcam
+2024-03-09 00:22:46,275 - INFO - image_cv2 - Saved image to: web_image.png
+2024-03-09 00:22:46,287 - INFO - script - Trying to open image: web_image.png
+2024-03-09 00:28:15,773 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:15,773 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:15,775 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:15,775 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:15,775 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:15,777 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:15,777 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:15,778 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:15,780 - ERROR - script - An error occurred: Please enter all values the settings.
+API Key is required
+2024-03-09 00:28:15,784 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 253, in <module>
+    streamlit_app()
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 176, in streamlit_app
+    raise ValueError("Please enter all values the settings.\nAPI Key is required")
+ValueError: Please enter all values the settings.
+API Key is required
+
+2024-03-09 00:28:20,698 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:20,698 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:20,698 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:20,698 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:20,698 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:20,698 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:20,698 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:20,709 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:22,601 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:22,603 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:22,632 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:22,636 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:22,642 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:22,647 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:22,651 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:22,656 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:31,128 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:31,145 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:31,145 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:31,152 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:31,191 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:31,205 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:31,207 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:31,218 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:31,889 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:31,891 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:31,892 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:31,897 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:31,899 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:31,906 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:31,907 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:31,908 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:32,954 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:32,969 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:32,986 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:32,991 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:33,030 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:33,034 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:33,108 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:33,152 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:36,752 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:36,753 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:36,755 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:36,760 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:36,765 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:36,767 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:36,768 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:36,806 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:36,837 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:28:36,841 - ERROR - script - An error occurred in capture_image: 'ImageCV2' object has no attribute 'capture_image_from_webcam'
+2024-03-09 00:28:36,849 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 80, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 135, in capture_image
+    web_image = web_cam.capture_image_from_webcam(web_image_file)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ImageCV2' object has no attribute 'capture_image_from_webcam'
+
+2024-03-09 00:28:41,329 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:41,337 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:41,344 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:41,366 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:41,369 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:41,383 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:41,388 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:41,406 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:41,469 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:28:41,488 - ERROR - script - An error occurred in capture_image: 'ImageCV2' object has no attribute 'capture_image_from_webcam'
+2024-03-09 00:28:41,514 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 80, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 135, in capture_image
+    web_image = web_cam.capture_image_from_webcam(web_image_file)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ImageCV2' object has no attribute 'capture_image_from_webcam'
+
+2024-03-09 00:28:41,998 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:28:42,001 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:28:42,004 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:28:42,011 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:28:42,015 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:28:42,016 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:28:42,018 - INFO - gemini_vision - Setting up model
+2024-03-09 00:28:42,020 - INFO - gemini_vision - Model setup success
+2024-03-09 00:28:42,040 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:28:42,049 - ERROR - script - An error occurred in capture_image: 'ImageCV2' object has no attribute 'capture_image_from_webcam'
+2024-03-09 00:28:42,073 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 80, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 135, in capture_image
+    web_image = web_cam.capture_image_from_webcam(web_image_file)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ImageCV2' object has no attribute 'capture_image_from_webcam'
+
+2024-03-09 00:32:57,863 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:32:57,864 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:32:57,865 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:32:57,867 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:32:57,867 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:32:57,867 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:32:57,867 - INFO - gemini_vision - Setting up model
+2024-03-09 00:32:57,869 - INFO - gemini_vision - Model setup success
+2024-03-09 00:32:57,872 - ERROR - script - An error occurred: Please enter all values the settings.
+API Key is required
+2024-03-09 00:32:57,874 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 253, in <module>
+    streamlit_app()
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 176, in streamlit_app
+    raise ValueError("Please enter all values the settings.\nAPI Key is required")
+ValueError: Please enter all values the settings.
+API Key is required
+
+2024-03-09 00:33:02,229 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:33:02,230 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:33:02,231 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:33:02,232 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:33:02,233 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:33:02,234 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:33:02,234 - INFO - gemini_vision - Setting up model
+2024-03-09 00:33:02,238 - INFO - gemini_vision - Model setup success
+2024-03-09 00:33:04,129 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:33:04,129 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:33:04,146 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:33:04,147 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:33:04,149 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:33:04,150 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:33:04,152 - INFO - gemini_vision - Setting up model
+2024-03-09 00:33:04,153 - INFO - gemini_vision - Model setup success
+2024-03-09 00:33:09,128 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:33:09,149 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:33:09,150 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:33:09,151 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:33:09,165 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:33:09,188 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:33:09,189 - INFO - gemini_vision - Setting up model
+2024-03-09 00:33:09,191 - INFO - gemini_vision - Model setup success
+2024-03-09 00:33:09,462 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:33:09,462 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:33:09,475 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:33:09,483 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:33:09,484 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:33:09,485 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:33:09,488 - INFO - gemini_vision - Setting up model
+2024-03-09 00:33:09,498 - INFO - gemini_vision - Model setup success
+2024-03-09 00:33:10,500 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:33:10,511 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:33:10,516 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:33:10,517 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:33:10,518 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:33:10,520 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:33:10,534 - INFO - gemini_vision - Setting up model
+2024-03-09 00:33:10,540 - INFO - gemini_vision - Model setup success
+2024-03-09 00:33:12,752 - INFO - gemini_vision - Initializing Gemini Vision
+2024-03-09 00:33:12,753 - INFO - gemini_vision - temperature: 0.3
+2024-03-09 00:33:12,754 - INFO - gemini_vision - top_p: 1.0
+2024-03-09 00:33:12,756 - INFO - gemini_vision - top_k: 32
+2024-03-09 00:33:12,793 - INFO - gemini_vision - max_output_tokens: 4096
+2024-03-09 00:33:12,836 - INFO - gemini_vision - Gemini Vision configured success
+2024-03-09 00:33:12,839 - INFO - gemini_vision - Setting up model
+2024-03-09 00:33:12,854 - INFO - gemini_vision - Model setup success
+2024-03-09 00:33:12,887 - INFO - script - Attempting to capture image from webcam with ImageCV2...
+2024-03-09 00:33:12,919 - ERROR - script - An error occurred in capture_image: 'ImageCV2' object has no attribute 'capture_image_from_webcam'
+2024-03-09 00:33:12,924 - ERROR - script - Traceback (most recent call last):
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 80, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\gemini vision model\Gemini-Vision-Pro\script.py", line 135, in capture_image
+    web_image = web_cam.capture_image_from_webcam(web_image_file)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ImageCV2' object has no attribute 'capture_image_from_webcam'
+
